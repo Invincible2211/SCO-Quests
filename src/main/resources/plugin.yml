@@ -1,0 +1,6 @@
+name: Quests
+version: 0.1
+main: Quests
+api-version: 1.16
+prefix: Quests
+authors: [ Freddyblitz ]
